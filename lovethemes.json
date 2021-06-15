@@ -1,0 +1,34 @@
+{
+  "modules": [
+    {
+      "name": "Boreal Custom!",
+      "description": "Made for my love",
+      "version": "-3-",
+      "tags": [
+        "DOM",
+        "CSS",
+        "theme",
+        "port"
+      ],
+      "authors": [
+        "147869832275034112"
+      ],
+      "hash": "8deb000fa06c117f0cdad87f67c20d6a509464ac6323fb55a404190ce575a1cf408577eb410a1e16f94c5b5019cee7921a2335de1bf9a5e61d7bb36512a49629",
+      "github": {
+        "stars": 1,
+        "repo": "Squallens/boreal-theme-custom"
+      },
+      "lastUpdated": 1612992694,
+      "images": [
+        "https://i.imgur.com/xtQflHh.jpg",
+        "https://i.imgur.com/R0OymsS.png",
+        "https://i.imgur.com/2Vc9b70.png",
+        "https://i.imgur.com/tGv56s2.png"
+      ]
+    },
+  ],
+  "meta": {
+    "name": "Bebe Core - Special Themes",
+    "description": Themes of love."
+  }
+}
